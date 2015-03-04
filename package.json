@@ -1,6 +1,6 @@
 {
   "name": "component-builder-istanbul",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Istanbul instrumenter for component",
   "directories": {},
   "main": "lib/plugin.js",
